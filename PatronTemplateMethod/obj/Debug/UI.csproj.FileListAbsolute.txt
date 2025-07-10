@@ -1,0 +1,12 @@
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\bin\Debug\PatronTemplateMethod.exe.config
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\bin\Debug\PatronTemplateMethod.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\bin\Debug\PatronTemplateMethod.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\obj\Debug\PatronTemplateMethod.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\obj\Debug\PatronTemplateMethod.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\bin\Debug\BLL.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\bin\Debug\Domain.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\bin\Debug\BLL.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\bin\Debug\Domain.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronTemplateMethod\PatronTemplateMethod\obj\Debug\UI.csproj.Up2Date

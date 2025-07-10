@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A3368E-0273-45FC-903C-E834FD739E0D}|PatronTemplateMethod\\PatronTemplateMethod.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patrontemplatemethod\\patrontemplatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A3368E-0273-45FC-903C-E834FD739E0D}|PatronTemplateMethod\\PatronTemplateMethod.csproj|solutionrelative:patrontemplatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAF8312-CF2E-46FF-B9C1-2B06E502DE65}|BLL\\BLL.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patrontemplatemethod\\bll\\casamadera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAF8312-CF2E-46FF-B9C1-2B06E502DE65}|BLL\\BLL.csproj|solutionrelative:bll\\casamadera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAF8312-CF2E-46FF-B9C1-2B06E502DE65}|BLL\\BLL.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patrontemplatemethod\\bll\\casaladrillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAF8312-CF2E-46FF-B9C1-2B06E502DE65}|BLL\\BLL.csproj|solutionrelative:bll\\casaladrillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAF8312-CF2E-46FF-B9C1-2B06E502DE65}|BLL\\BLL.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patrontemplatemethod\\bll\\construccioncasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAF8312-CF2E-46FF-B9C1-2B06E502DE65}|BLL\\BLL.csproj|solutionrelative:bll\\construccioncasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CasaMadera.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\BLL\\CasaMadera.cs",
+              "RelativeDocumentMoniker": "BLL\\CasaMadera.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\BLL\\CasaMadera.cs",
+              "RelativeToolTip": "BLL\\CasaMadera.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:41:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CasaLadrillo.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\BLL\\CasaLadrillo.cs",
+              "RelativeDocumentMoniker": "BLL\\CasaLadrillo.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\BLL\\CasaLadrillo.cs",
+              "RelativeToolTip": "BLL\\CasaLadrillo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:23:08.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConstruccionCasa.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\BLL\\ConstruccionCasa.cs",
+              "RelativeDocumentMoniker": "BLL\\ConstruccionCasa.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\BLL\\ConstruccionCasa.cs",
+              "RelativeToolTip": "BLL\\ConstruccionCasa.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:06:50.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\PatronTemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "PatronTemplateMethod\\Program.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronTemplateMethod\\PatronTemplateMethod\\Program.cs",
+              "RelativeToolTip": "PatronTemplateMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:02:19.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
